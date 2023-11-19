@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="https://external-preview.redd.it/VcHov93v_WdqfSnXV1SKylmv1KfrUnVS7e0DYDzvrP0.jpg?auto=webp&s=c9064fa107892f7006c1ff093d924d4f91741b89">
+<img align="right" width="400" src="https://i.redd.it/kshwti4ihig11.gif">
 
 
 
