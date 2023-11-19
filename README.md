@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400" src="http://pin.anime.com/wp-content/uploads/2015/09/5-Centimeters-Per-Second-%E7%A7%92%E9%80%9F5%E3%82%BB%E3%83%B3%E3%83%81%E3%83%A1%E3%83%BC%E3%83%88%E3%83%AB-animated-GIF-.gif">
+<img align="right" width="400" alt="na"src="https://i.pinimg.com/originals/d3/db/e3/d3dbe3af0dfef384f824ef40c1af36f7.gif">
 
 
 
