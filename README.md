@@ -4,7 +4,8 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/xo_tushar_wrld" target="blank"><img src="https://img.shields.io/twitter/follow/xo_tushar_wrld?logo=twitter&style=for-the-badge" alt="xo_tushar_wrld" /></a> </p>
+<p align="left"> <a href="![Uploading image.png…]()
+" alt="xo_tushar_wrld" /></a> </p>
 
 - 🔭 I’m currently working on **ReactJS and NodeJS**
 
