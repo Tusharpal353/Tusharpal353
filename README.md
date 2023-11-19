@@ -2,9 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://external-preview.redd.it/VcHov93v_WdqfSnXV1SKylmv1KfrUnVS7e0DYDzvrP0.jpg?auto=webp&s=c9064fa107892f7006c1ff093d924d4f91741b89">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpal353&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpal353" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharpal353" alt="tusharpal353" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/xo_tushar_wrld" target="blank"><img src="https://img.shields.io/twitter/follow/xo_tushar_wrld?logo=twitter&style=for-the-badge" alt="xo_tushar_wrld" /></a> </p>
 
@@ -19,6 +17,11 @@
 - 📫 How to reach me **tusharpal353@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1g6g0xbJDchO6Fj4wXIeO1cQ6vDn3j0vL/view?usp=drive_link](https://drive.google.com/file/d/1g6g0xbJDchO6Fj4wXIeO1cQ6vDn3j0vL/view?usp=drive_link)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpal353&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpal353" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tusharpal353" alt="tusharpal353" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
