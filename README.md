@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **tusharpal353@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g6g0xbJDchO6Fj4wXIeO1cQ6vDn3j0vL/view?usp=drive_link](https://drive.google.com/file/d/1g6g0xbJDchO6Fj4wXIeO1cQ6vDn3j0vL/view?usp=drive_link)
+- 📄 Know about my experiences [http://lnkiy.in/TusharResume)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpal353&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpal353" /> </p>
