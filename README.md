@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **DSA and frontend**
 
-- 📫 How to reach me **tusharpal353@gmail.com**
+- 📫 How to reach me **tusharpal3375@gmail.com**
 
 - 📄 Know about my experiences [http://lnkiy.in/TusharResume)
 
