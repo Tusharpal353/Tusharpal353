@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **tusharpal3375@gmail.com**
 
-- 📄 Know about my experiences [http://lnkiy.in/TusharResume)
+- 📄 Know about my Resume [
+  https://shorturl.at/Sta2l)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tusharpal353&label=Profile%20views&color=0e75b6&style=flat" alt="tusharpal353" /> </p>
