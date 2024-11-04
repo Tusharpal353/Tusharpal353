@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in **ReactJS and NextJS**
 
-- 🌱 I’m currently mastering **Web Development  **
+- 🌱 I’m currently mastering **Web Development**
 
 - 👯 I’m looking to collaborate on **Projects**
 
