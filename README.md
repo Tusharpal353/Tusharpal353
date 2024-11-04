@@ -37,7 +37,7 @@
 
 
 ## GitHub Stats:
-<img align="left" src="https://github-readme-stats-red-eta.vercel.app/api?username=Tusharpal353&show_icons=true&locale=en" alt="sumana10" />
+<img align="center" src="https://github-readme-stats-red-eta.vercel.app/api?username=Tusharpal353&show_icons=true&locale=en" alt="sumana10" />
 
 
 <!-- ### 🐍 Watch Snake eating my contribution -->
