@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar</h1>
 
 <h3 align="center">A passionate frontend developer from India👩‍💻✍</h3>
-
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<img src="https://komarev.com/ghpvc/?username=Tusharpal353&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tusharpal353&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
