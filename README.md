@@ -36,8 +36,7 @@
 [![Others](https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vite,npm,aws&theme=light)](https://skillicons.dev)
 
 
-## GitHub Stats:
-<img align="center" src="https://github-readme-stats-red-eta.vercel.app/api?username=Tusharpal353&show_icons=true&locale=en" alt="sumana10" />
+
 
 
 <!-- ### 🐍 Watch Snake eating my contribution -->
